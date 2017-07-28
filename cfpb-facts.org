@@ -1,0 +1,102 @@
+#+title: CFPB Fact Sheet---State of the Gameboard
+#+author: Elliott "Seylerius" Seyler
+#+date: 2017-07-27
+
+* Consumer Financial Protection Bureau
+
+** Creation
+
++ Created in Dodd-Frank legislation after Great Recession
++ Established as /independent agency/---can't be controlled as directly by president
++ Director Richard Cordray describes CFPB priorities:
+  + Mortgages
+  + Credit cards
+  + Student loans
++ Independent unit located inside and funded by Federal Reserve
+  + Mandatory funding requirements from the Fed
+  + Legally independent from Fed
+
+** Targets
+
++ Fraudulent transactions
+  + Wells Fargo Scandal
+  + "inflated credit score" companies
+  + Vehicle emission statistics
++ Abusive contracts
+  + Mandatory Binding Arbitration
+  + Unenforceable provisions
++ Monitors toy safety
+  + Regulates toy safety, demands recalls
+  + Ensures restitution if child harmed
+
+** Successes
+
+*** Statistics
+
++ $12B returned to consumers
++ 29M Americans helped
++ $600M annual budget
++ 97% responded within X time
++ Compiles database of consumer complaints
+
+*** Wells Fargo Investigation
+
++ Millions of fraudulent checking & savings accounts created without consent
++ Fined $185M
++ Company faces additional civil & criminal suits
+
+*** Inflated Credit Scores
+
++ Sells you credit score, but gives you artificially inflated number
++ Fraudulent due to false advertising
++ Consumers wind up applying for and getting denied for things
+
+*** Volkswagen Diesel Emission Scandal
+
++ VW sold diesel vehicles with cheating emission software
+  + Emission control computers normally violated standards in favor of better performance
+  + Detected inspectors and switched to compliant mode
+  + False advertising
++ CFPB worked to ensure defrauded consumers got restitution
+
+* Attacks
+
+** Legislative
+
+*** Financial CHOICE Act
+
++ *CHOICE* --- Creating Hope and Opportunity for Investors, Consumers, and Entrepreneurs
++ Passed House 2017-06-08 on party line vote
++ Gives president power to fire directors of Federal Housing Finance Agency (FHFA) and CFPB
++ Gives Congress direct control over CFPB budget
++ Eliminates Dodd-Frank's Orderly Liquidation Authority
++ Replaces CFPB director with bipartisan, 5-member commission
+
+*** House vote to Overturn Mandatory Binding Arbitration Protection
+
++ Companies build a clause called /Mandatory Binding Arbitration/ into contracts
+  + MBA blocks consumers from suing in disputes
+  + This also blocks class action lawsuits
+  + Disputes can only be settled through arbitration, with arbitrator chosen by company
++ CFPB created new rule banning MBA
+  + Consumers regain right to class action suits
+  + MBA becomes unenforceable
+  + Affects financial services firms
+  + Companies must review their existing practices to ensure compliance
++ House passed bill overturning rule
+  + Could pass Senate any day
+  + Would reinstate MBA clauses
+  + Tom Cotton submitted similar bill in Senate
+
+** Executive
+
+*** Trump 2018 Federal Budget
+
++ Cuts money from CFPB
++ CFPB funded by Federal Reserve, not taxpayers
++ Seems to assume CHOICE will succeed
+
+*** Trump Actions if Control over CFPB Acquired
+
++ Eliminate /independent agency/ status
++ Ban publishing of complaint database
